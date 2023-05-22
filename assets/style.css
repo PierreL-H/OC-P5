@@ -1,7 +1,14 @@
 body {
 	max-width: 1920px;
 	margin: auto;
+	overflow: initial !important;
 }
+.modal-open {
+  	padding-right: 0px !important;
+}
+
+
+
 * {
 	font-family: 'Inter';
 	font-style: normal;
