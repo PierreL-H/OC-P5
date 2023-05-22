@@ -7,8 +7,21 @@ body {
   	padding-right: 0px !important;
 }
 
+.carousel-item img {
+	aspect-ratio: 80 / 37;
+}
 
+#about img {
+	aspect-ratio: 400 / 399;
+}
 
+#contact img {
+	aspect-ratio: 600 / 599;
+}
+
+.social-link img {
+	aspect-ratio: 1;
+}
 * {
 	font-family: 'Inter';
 	font-style: normal;
